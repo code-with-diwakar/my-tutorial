@@ -18,9 +18,9 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      }
-    },
+        "backgroundColor": "#ffffff"},
+    
+    "package":"xyz.jsm.hola"  },
     "web": {
       "bundler": "metro",
       "output": "static",
